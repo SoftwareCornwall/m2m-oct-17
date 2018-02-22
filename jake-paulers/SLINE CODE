@@ -1,0 +1,33 @@
+//void Mainloop()
+//{
+
+//}
+/*{
+  int difference = leftcounter-rightcounter;
+  if(difference != 0)
+  {
+
+  }
+  if (difference < 0)
+  {
+    right_slow();
+    Serial.println("left stop");
+    Serial.println(difference);
+    timer();
+
+  }
+  else if (difference > 0)
+    {
+
+     left_slow();
+     Serial.println("right stop");
+     Serial.println(difference);
+
+     timer();
+  }
+    Both_Motors_Forward();
+    Serial.println("Forward");
+    Serial.println(difference);
+    timer();
+  }
+*/
